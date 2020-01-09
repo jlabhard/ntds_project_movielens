@@ -1,7 +1,7 @@
 # Movie recommender system using signal diffusion
 In this project, we created a movie recommendation system based on graph signal processing. The task is to recommend movies to a user given some ratings of that user.  More details can be found in our final report.
 
-## Dependecies
+## Dependencies
 
 In order to run the code, the following dependecies need to be dowloaded on your machine.
 
