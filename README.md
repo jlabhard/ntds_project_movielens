@@ -21,10 +21,8 @@ The data containing can be dowloaded here [MovieLens 100k](https://grouplens.org
 
 ## Files
 
-- Baselines.ipynb: Contains a recommendation system based on the Surprise library. We will compare our model with this one. In order to get a prediction for a user you can run the `baseline_recommendations()` method which give the 10 most relevant recommendations for a given user.
-
-- Main.ipynb: Contains our recommendation system. To get a prediction you can run the `get_recommendations()`. Again it gives the 10 most relevant recommendations for a given user.
-
+- Main.ipynb: Contains our recommendation system. To get the 10 most relevant recommendations for a given user you can run the `get_recommendations()` function.
+We also compare our model with a matrix-factorization based recommendation system. You can get the prediction given by this model using the `baseline_recommendations()` function.
 
 ## Contributors
 
